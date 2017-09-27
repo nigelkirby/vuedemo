@@ -9,7 +9,7 @@ export default {
   name: 'hello',
   data() {
     return {
-      msg: 'It\'s been changed, man',
+      msg: 'It\'s been changed!',
     };
   },
 };
